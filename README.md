@@ -1,4 +1,4 @@
-# msynth
+# project m-synth
 MATLAB synthesizer
 
 ## Requirements
