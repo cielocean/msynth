@@ -9,4 +9,4 @@ Git clone msynth
 <pre><code>$ git clone https://github.com/cielocean/msynth.git</code></pre>
 
 ## GUI
-![GUI](https://github.com/cielocean/msynth/m-synthGUI.png "GUI")
+![GUI](https://raw.githubusercontent.com/cielocean/msynth/master/m-synthGUI.png "GUI")
